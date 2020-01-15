@@ -11,7 +11,7 @@
         <relativePath />
     </parent>
 
-    <groupId>io.github.kubenext.codekinds</groupId>
+    <groupId>io.github.kubenext</groupId>
     <artifactId>codekinds-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -33,7 +33,7 @@
 
     <developers>
         <developer>
-            <id>leegive</id>
+            <id>shangjin</id>
             <name>Shangjin Li</name>
             <url>https://www.codekinds.com</url>
             <organization>CodeKinds</organization>
